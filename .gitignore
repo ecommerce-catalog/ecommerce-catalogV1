@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Next.js Build Output
+.next/
+out/
+
+# Production Build Artifacts
+build/
+
+# Next.js Auto-generated TypeScript Types
+next-env.d.ts
+
+# Sensitive Environment Variables
+.env
+.env.local
+.env.production
+.env.development
+.env.*.local
+
+# Debug and Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Vercel Deployment Metadata
+.vercel
+
+# System / IDE Files
+.DS_Store
+.vscode/
+.idea/
